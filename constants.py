@@ -21,7 +21,7 @@ Menga har qanday soʻzni yuboring men uni ingliz tiliga tarjima qilib beraman bo
 /help - Botdan foydalanish boyicha qollanma
 /language - Oʻzingiz uchun afzal tilni tanlang
 
-Agar sizda shu bot yoki boshqa botlar' haqida fikringiz boʻlsa dasturchi__ - @LiderBoy ga murojaat qilishingiz mumkin!
+Agar sizda shu bot yoki boshqa botlar' haqida fikringiz boʻlsa dasturchi__ - @Saidjon_okenn ga murojaat qilishingiz mumkin!
 
 Zavqlaning! ☺"""
 
@@ -29,7 +29,7 @@ start_message_reply_markup = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "➕ Meni guruhga qoshing ➕",  url="http://t.me/GoTarjimonBot?startgroup=tr")
+                "➕ Meni guruhga qoshing ➕",  url="http://t.me/tarjimon_x1_robot?startgroup=tr")
         ],
         [
             InlineKeyboardButton(  
@@ -37,7 +37,7 @@ start_message_reply_markup = InlineKeyboardMarkup(
                         switch_inline_query_current_chat=" "
                     ),
             InlineKeyboardButton(
-                "👨‍💻 Dasturchi",  url="https://t.me/LiderBoy"),
+                "👨‍💻 Dasturchi",  url="https://t.me/Saidjon_okenn"),
         ],
         [
             InlineKeyboardButton(
@@ -47,9 +47,9 @@ start_message_reply_markup = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                "📣 Kanal",  url="https://t.me/Api_Kod"),
+                "📣 Kanal",  url="https://t.me/hacker_vlogss"),
             InlineKeyboardButton(
-                "Guruh 👥",  url="https://t.me/API_KOD_GROUP"),
+                "Guruh 👥",  url="https://t.me/hayotiy_damlar"),
         ]
     ]
 )
@@ -61,24 +61,24 @@ help_markup = InlineKeyboardMarkup(
         )
 
 credits = """Dasturchi 🧑‍💻
- • @LiderBoy
+ • @Saidjon_okenn
  • Sizga mukammal tarzda bot yaratib berishimiz mumkin
  • Iltimos lichkaga bot kodini sorab yozmang!
 
 Kanal 💡
- • @QaynoqFakt"""
+ • @hacker_vlogss"""
 
 help_text = """
-**GoTarjimon Bot**
+**Tarjimon Bot**
 
-GoTarjimon "G + Tarjimon" so'zi bo'lib, "Google Tarjimon" ma'nosini anglatadi.  Matnni (emojilar bilan) dunyoning boshqa tillaridan koʻplab tillarga tarjima qilishga yordam beradigan bot.
+Tarjimon "G + Tarjimon" so'zi bo'lib, "Google Tarjimon" ma'nosini anglatadi.  Matnni (emojilar bilan) dunyoning boshqa tillaridan koʻplab tillarga tarjima qilishga yordam beradigan bot.
 
- GoTarjimon Bot turli xil tillarni aniqlay oladi, chunki u Google Translate API yordamida ishlaydi.
+ Tarjimon Bot turli xil tillarni aniqlay oladi, chunki u Google Translate API yordamida ishlaydi.
 
- GoTarjimon Bot-dan shaxsiy suhbatida foydalanishingiz mumkin.  Ammo GoTarjimon Bot Telegram Guruh & Kanal uchun mavjud emas.
+ Tarjimon Bot-dan shaxsiy suhbatida foydalanishingiz mumkin.  Ammo GoTarjimon Bot Telegram Guruh & Kanal uchun mavjud emas.
  
 **Qanday**
-GoTarjimom Bot-ga nusxa ko'chirilgan matnni yoki boshqa tilga yo'naltirilgan xabarni yuborish kifoya, shunda siz o'zingiz xohlagan tilda tarjimani olasiz.  Qaysi til mavjudligini bilish uchun /language buyrugʻini yuborish kerak.
+Tarjimon Bot-ga nusxa ko'chirilgan matnni yoki boshqa tilga yo'naltirilgan xabarni yuborish kifoya, shunda siz o'zingiz xohlagan tilda tarjimani olasiz.  Qaysi til mavjudligini bilish uchun /language buyrugʻini yuborish kerak.
 
 ****Boshqa Yordam****
 
@@ -89,23 +89,23 @@ GoTarjimom Bot-ga nusxa ko'chirilgan matnni yoki boshqa tilga yo'naltirilgan xab
 /tr (til kodi) (xabar)
 
 **Inline rejimida tarjima qiling**
-@GoTarjimonBot (til kodi) (xabar)
+@tarjimon_x1_robot (til kodi) (xabar)
 
 ---
-Muammo bolsa? @LiderBoy ga murojaat qiling
+Muammo bolsa? @Saidjon_okenn ga murojaat qiling
 
 Python dasturlash tilida yaratildi 💚
 """
 
 developer_text = """
-Arslonbek Xushboqov
+Yusufxojayev Saidahror
 
 Qiziqishi:  Dasturchilik ;
-Yoshi:  15-yosh ;
-Yonalishi:  Html & Css & Js & Python & sqlite3 ;
-Aloqa:  935258004 ;
-Email:  arslonbek68xushboqov@gmail.com ;
-Yashash Joyi:  Qashqadaryo vil. Dehqonobod tumani ;
+Yoshi:  18-yosh ;
+Yonalishi:  Html & Css & Js & Python & php ;
+Aloqa:  +998936045636 ;
+Email:  saidjonbloger@gmail.com ;
+Yashash Joyi:  Toshkent shahri Sergeli tumani ;
 """
 
 language_text = """
